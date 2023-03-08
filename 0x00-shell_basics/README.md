@@ -5,3 +5,4 @@
 5- ls -la: Display current directory contents, including hidden files (starting with .). Use the long format
 6- ls -lan: Display current directory contents in Long format with user and group IDs displayed numerically And hidden files (starting with .)
 7- mkdir /tmp/my_first_directory: creates a directory
+8- mv betty /my_first_directory: Move the file betty from /tmp/ to /tmp/my_first_directory
