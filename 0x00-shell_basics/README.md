@@ -6,3 +6,4 @@
 6- ls -lan: Display current directory contents in Long format with user and group IDs displayed numerically And hidden files (starting with .)
 7- mkdir /tmp/my_first_directory: creates a directory
 8- mv betty /my_first_directory: Move the file betty from /tmp/ to /tmp/my_first_directory
+9- rm /temp/my_first_directory/betty: Delete the file betty
