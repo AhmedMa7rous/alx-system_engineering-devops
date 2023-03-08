@@ -8,4 +8,4 @@
 8- mv betty /my_first_directory: Move the file betty from /tmp/ to /tmp/my_first_directory
 9- rm /temp/my_first_directory/betty: Delete the file betty
 10- rm -r /tmp/my_first_directory: Delete the directory my_first_directory that is in the /tmp directory
-11- cd ..: changes the working directory to the previous one
+11- cd -: changes the working directory to the previous one
